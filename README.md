@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ### Add your HuggingFace API key
-Open `.env` and replace the placeholde:
+Open `.env` and replace the placeholder:
 ```
 HUGGINGFACEHUB_API_TOKEN="hf_....."
 ```
